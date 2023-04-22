@@ -1,0 +1,7 @@
+1    	#!/bin/bash
+3    	if [ $# -ne 2 ]
+5    	echo " pass only 2 args "
+7    	fi
+9    	then
+11    	else
+13    	fi

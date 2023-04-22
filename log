@@ -1,0 +1,67 @@
+total 8
+drwxr-xr-x. 3 ec2-user ec2-user 18 Apr 10 08:45 dir1
+drwxr-xr-x. 2 ec2-user ec2-user  6 Apr 10 08:45 dir2
+-rw-r--r--. 1 ec2-user ec2-user 92 Apr 10 08:50 raghu
+-rw-r--r--. 1 ec2-user ec2-user 92 Apr 10 08:50 rj
+-rw-r--r--. 1 ec2-user ec2-user  0 Apr 10 08:51 log
+linux is cli
+total 16
+-rw-r--r--. 1 ec2-user ec2-user   0 Apr 13 08:41 f3
+-rw-r--r--. 1 ec2-user ec2-user   0 Apr 13 08:41 f2
+-rw-rw-rw-. 1 ec2-user ec2-user   0 Apr 13 08:48 hj12
+drwxr-xr-x. 3 ec2-user ec2-user  17 Apr 16 12:37 di2
+drwxrw---x. 2 ec2-user ec2-user  26 Apr 16 12:37 dir1
+-rw-r--r--. 1 ec2-user ec2-user 864 Apr 16 13:58 log1
+-rw-r--r--. 1 ec2-user ec2-user  56 Apr 16 14:19 f1
+drwxr-xr-x. 2 ec2-user ec2-user 137 Apr 16 14:30 dir11
+-rwxrwxr-x. 1 ec2-user ec2-user 284 Apr 17 08:30 log
+drwxr-xr-x. 2 ec2-user ec2-user 137 Apr 17 08:43 dir21
+-rw-rw-rw-. 1 ec2-user ec2-user   0 Apr 17 09:27 x1
+----------. 1 ec2-user ec2-user   0 Apr 17 09:27 x2
+-rw-r--r--. 1 ec2-user ec2-user  35 Apr 17 10:35 data
+total 16
+-rw-r--r--. 1 ec2-user ec2-user   0 Apr 13 08:41 f3
+-rw-r--r--. 1 ec2-user ec2-user   0 Apr 13 08:41 f2
+-rw-rw-rw-. 1 ec2-user ec2-user   0 Apr 13 08:48 hj12
+drwxr-xr-x. 3 ec2-user ec2-user  17 Apr 16 12:37 di2
+drwxrw---x. 2 ec2-user ec2-user  26 Apr 16 12:37 dir1
+-rw-r--r--. 1 ec2-user ec2-user 864 Apr 16 13:58 log1
+-rw-r--r--. 1 ec2-user ec2-user  56 Apr 16 14:19 f1
+drwxr-xr-x. 2 ec2-user ec2-user 137 Apr 16 14:30 dir11
+drwxr-xr-x. 2 ec2-user ec2-user 137 Apr 17 08:43 dir21
+-rw-rw-rw-. 1 ec2-user ec2-user   0 Apr 17 09:27 x1
+----------. 1 ec2-user ec2-user   0 Apr 17 09:27 x2
+-rw-r--r--. 1 ec2-user ec2-user  35 Apr 17 10:35 data
+-rwxrwxr-x. 1 ec2-user ec2-user 985 Apr 17 10:48 log
+total 16
+-rw-r--r--. 1 ec2-user ec2-user    0 Apr 13 08:41 f3
+-rw-r--r--. 1 ec2-user ec2-user    0 Apr 13 08:41 f2
+-rw-rw-rw-. 1 ec2-user ec2-user    0 Apr 13 08:48 hj12
+drwxr-xr-x. 3 ec2-user ec2-user   17 Apr 16 12:37 di2
+drwxrw---x. 2 ec2-user ec2-user   26 Apr 16 12:37 dir1
+-rw-r--r--. 1 ec2-user ec2-user  864 Apr 16 13:58 log1
+-rw-r--r--. 1 ec2-user ec2-user   56 Apr 16 14:19 f1
+drwxr-xr-x. 2 ec2-user ec2-user  137 Apr 16 14:30 dir11
+drwxr-xr-x. 2 ec2-user ec2-user  137 Apr 17 08:43 dir21
+-rw-rw-rw-. 1 ec2-user ec2-user    0 Apr 17 09:27 x1
+----------. 1 ec2-user ec2-user    0 Apr 17 09:27 x2
+-rw-r--r--. 1 ec2-user ec2-user   35 Apr 17 10:35 data
+-rwxrwxr-x. 1 ec2-user ec2-user 1686 Apr 17 10:48 log
+
+a
+b
+c
+c
+c
+c
+c
+d
+d
+z
+z
+x
+x
+y
+y
+a
+b

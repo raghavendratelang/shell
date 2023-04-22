@@ -1,0 +1,18 @@
+total 4
+-rw-r--r--. 1 ec2-user ec2-user   0 Apr 13 08:41 f3
+-rw-r--r--. 1 ec2-user ec2-user   0 Apr 13 08:41 f2
+-rw-r--r--. 1 ec2-user ec2-user   0 Apr 13 08:41 f1
+-rwxrwxr-x. 1 ec2-user ec2-user 271 Apr 13 08:47 log
+-rw-rw-rw-. 1 ec2-user ec2-user   0 Apr 13 08:48 hj12
+drwxr-xr-x. 3 ec2-user ec2-user  17 Apr 16 12:37 di2
+drwxrw---x. 2 ec2-user ec2-user  26 Apr 16 12:37 dir1
+-rw-r--r--. 1 ec2-user ec2-user   0 Apr 16 13:58 log1
+total 8
+-rw-r--r--. 1 ec2-user ec2-user   0 Apr 13 08:41 f3
+-rw-r--r--. 1 ec2-user ec2-user   0 Apr 13 08:41 f2
+-rw-r--r--. 1 ec2-user ec2-user   0 Apr 13 08:41 f1
+-rwxrwxr-x. 1 ec2-user ec2-user 271 Apr 13 08:47 log
+-rw-rw-rw-. 1 ec2-user ec2-user   0 Apr 13 08:48 hj12
+drwxr-xr-x. 3 ec2-user ec2-user  17 Apr 16 12:37 di2
+drwxrw---x. 2 ec2-user ec2-user  26 Apr 16 12:37 dir1
+-rw-r--r--. 1 ec2-user ec2-user 432 Apr 16 13:58 log1
